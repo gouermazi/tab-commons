@@ -1,0 +1,5 @@
+com/gouermazi/util/http/request/CommonUtil.class
+com/gouermazi/util/sig/SignatureUtil.class
+com/gouermazi/util/time/DateUtils.class
+com/gouermazi/util/http/request/MyX509TrustManager.class
+com/gouermazi/util/pic/PictureUtils.class
