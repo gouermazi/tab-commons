@@ -48,5 +48,24 @@
       <artifactId>commons-lang3</artifactId>
       <version>3.6</version>
     </dependency>
+      <dependency>
+          <groupId>commons-io</groupId>
+          <artifactId>commons-io</artifactId>
+          <version>2.2</version>
+      </dependency>
+      <dependency>
+          <groupId>org.apache.httpcomponents</groupId>
+          <artifactId>httpclient</artifactId>
+          <version>4.3.3</version>
+          <type>jar</type>
+          <scope>compile</scope>
+      </dependency>
+      <dependency>
+          <groupId>org.apache.httpcomponents</groupId>
+          <artifactId>httpmime</artifactId>
+          <version>4.3.3</version>
+          <type>jar</type>
+          <scope>compile</scope>
+      </dependency>
   </dependencies>
 </project>

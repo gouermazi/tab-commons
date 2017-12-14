@@ -8,7 +8,7 @@ import java.util.Base64;
  */
 public class EcnodeUtils {
     /**
-     * 对请求体中的参数base64编码
+     * 对参数base64编码
      *
      * @param txt_sentence
      * @return
